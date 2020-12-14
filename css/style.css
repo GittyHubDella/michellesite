@@ -1,0 +1,61 @@
+body {
+margin: 0;
+font-family: fantasy;
+text-align: center;
+
+
+}
+h1 {
+  margin: 0;
+  font-family: 'ocr a std'
+}
+h2 {
+  font-family: 'Roboto light';
+
+}
+
+p {
+  font-family: 'Roboto';
+
+}
+
+.container {
+  background-color: #fff3b2;
+  font-family: 'Bauhaus 93';
+
+}
+
+li {
+  display: inline-block;
+}
+
+.nav-bar {
+  display: none;
+
+  position: absolute;
+}
+
+
+.bottom-cloud {
+  position: absolute;
+  margin-bottom: 300px;
+}
+.top-cloud {
+  position: relative;
+  left: 250px;
+  margin-left: 50px;
+
+}
+.myGirlfriend {
+  width: 200px;
+}
+.rue {
+  width: 200px;
+  height: 300px;
+  border-radius: 50%;
+}
+
+.joeynrue {
+  width: 200px;
+  border-radius: 25%
+}
